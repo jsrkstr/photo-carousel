@@ -1,6 +1,8 @@
 photo-carousel
 ==============
 
+Demo - [http://jsrockstar132.github.io/photo-carousel/](http://jsrockstar132.github.io/photo-carousel/)
+
 Full fledged slideshow carousal Jquery plugin
 
 * Lazy loading - Intelligent algorithm that preloads only next/prev images of current image. Hence reducing page load time. Also the carousel uses only 3 image elements   and swaps them for next, current, previous. Hence saving HTML code and number of DOM nodes and low in memory.
@@ -14,4 +16,4 @@ Full fledged slideshow carousal Jquery plugin
 * CSS3 Slide Animation with older browsers support
 * Thumbnail indicators
 
-Demo At [http://jsrockstar132.github.io/photo-carousel/](http://jsrockstar132.github.io/photo-carousel/)
+

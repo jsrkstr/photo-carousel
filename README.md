@@ -13,3 +13,5 @@ Full fledged slideshow carousal Jquery plugin
 * Select image from thumbnail
 * CSS3 Slide Animation with older browsers support
 * Thumbnail indicators
+
+Demo At [http://jsrockstar132.github.io/photo-carousel/](http://jsrockstar132.github.io/photo-carousel/)
